@@ -2,7 +2,7 @@
 A simple task monitoring app that records the time you consume on every tasks. written in c# winforms
 
 
-##Setting Up
+## Setting Up
 1. This app uses a **mysql database**. Setup one first, you can use mysql workbench, wamp, etc.
 2. Create a new database and name it **tasktimerdb**
 3. Import **tasktimerdb.sql**
